@@ -1,0 +1,4 @@
+﻿DLP CONTROL TEST
+Date: 2026-05-18
+Purpose: Проверка DLP на загрузку тестовых данных в GitHub.
+Data type: Искусственные canary-секреты, не рабочие учетные данные.

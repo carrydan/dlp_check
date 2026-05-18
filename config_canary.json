@@ -1,0 +1,8 @@
+﻿{
+ "test_name": "DLP GitHub Upload Control",
+ "date": "2026-05-18",
+ "github_token": "ghp_111111111111111111111111111111111111",
+ "gitlab_token": "glpat-11111111111111111111",
+ "db_password": "NotARealPassword_DLP_Test_20260518",
+ "comment": "Synthetic DLP canary data. Not real secrets."
+}
